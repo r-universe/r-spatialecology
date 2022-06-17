@@ -1,0 +1,18 @@
+[
+  {
+    "package": "belg",
+    "oncran": true
+  },
+  {
+    "package": "landscapemetrics",
+    "oncran": true
+  },
+  {
+    "package": "onpoint",
+    "oncran": true
+  },
+  {
+    "package": "shar",
+    "oncran": true
+  }
+]
