@@ -23,3 +23,8 @@
 	url = https://github.com/r-spatialecology/shar
 	shallow = true
 	registered = true
+[submodule "getCRUCLdata"]
+	path = getCRUCLdata
+	url = https://github.com/ropensci/getCRUCLdata
+	shallow = true
+	registered = false
