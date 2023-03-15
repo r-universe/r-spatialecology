@@ -8,14 +8,14 @@
 	url = https://github.com/r-spatialecology/belg
 	shallow = true
 	registered = true
-[submodule "onpoint"]
-	path = onpoint
-	url = https://github.com/r-spatialecology/onpoint
-	shallow = true
-	registered = true
 [submodule "landscapemetrics"]
 	path = landscapemetrics
 	url = https://github.com/r-spatialecology/landscapemetrics
+	shallow = true
+	registered = true
+[submodule "onpoint"]
+	path = onpoint
+	url = https://github.com/r-spatialecology/onpoint
 	shallow = true
 	registered = true
 [submodule "shar"]
