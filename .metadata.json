@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "landscapemetrics",
+    "package": "onpoint",
     "oncran": true
   },
   {
-    "package": "onpoint",
+    "package": "landscapemetrics",
     "oncran": true
   },
   {
