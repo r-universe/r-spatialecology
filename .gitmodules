@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "belg"]
 	path = belg
 	url = https://github.com/r-spatialecology/belg
-	shallow = true
-	registered = true
 [submodule "landscapemetrics"]
 	path = landscapemetrics
 	url = https://github.com/r-spatialecology/landscapemetrics
-	shallow = true
-	registered = true
 [submodule "onpoint"]
 	path = onpoint
 	url = https://github.com/r-spatialecology/onpoint
-	shallow = true
-	registered = true
 [submodule "shar"]
 	path = shar
 	url = https://github.com/r-spatialecology/shar
-	shallow = true
-	registered = true
