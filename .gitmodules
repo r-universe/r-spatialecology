@@ -14,3 +14,6 @@
 [submodule "shar"]
 	path = shar
 	url = https://github.com/r-spatialecology/shar
+[submodule "spectre"]
+	path = spectre
+	url = https://github.com/r-spatialecology/spectre
